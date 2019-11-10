@@ -1,0 +1,54 @@
+body {
+  padding-top: 3.5rem;
+ background: #000000;
+}
+
+.navbar{
+ background: #000000;
+font-family: 'Neucha', cursive;
+}
+
+
+.jumbotron
+{
+background: url(https://i.ibb.co/FJdgBLH/69233516-536916663717636-9036462609990602994-n.jpg) no-repeat 100%;
+background-size: cover;
+}
+
+
+h1, h2, legend
+{font-family: 'Amatic SC', cursive;}
+
+p, label
+{
+font-family: 'Neucha', cursive;
+font-size: 20.5px;
+}
+
+
+.marketing {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+
+fieldset
+{
+font-size: 20.5px;
+font-family: 'Neucha', cursive;
+}
+
+.img-circle
+{
+border-radius: 1000px;
+}
