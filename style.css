@@ -1,0 +1,25 @@
+body {
+  padding-top: 3.5rem;
+ background: #000000;
+}
+
+.navbar{
+ background: #000000;
+font-family: 'Neucha', cursive;
+}
+
+
+.jumbotron
+{
+background: url(https://i.ibb.co/FJdgBLH/69233516-536916663717636-9036462609990602994-n.jpg) no-repeat 100%;
+background-size: cover;
+}
+
+h1, h2
+{font-family: 'Amatic SC', cursive;}
+
+p
+{
+font-family: 'Neucha', cursive;
+font-size: 20.5px;
+}
